@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Reeves",
+  "age": 49,
+  "address": {
+    "street": "Nelvuv Avenue",
+    "city": "Gazudla",
+    "state": "NY",
+    "zip": "22957"
+  },
+  "contact": {
+    "phone": "(325) 332-7460",
+    "servicePhone": "800654726"
+  },
+  "birthday": "1962-03-29T09:29:38.750Z",
+  "ip": "37.49.251.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Gande tab hi el uf uniedu ote fu pehbew puz bi hi betdigu novvah losuzima utazi eco. Jusama gu jih gesmov tuseino dotjuzag te du fi jodehal zojuku pah. Rud la feal egi wacrilju uhfivon na gab kijwoaki nihiffom uni sum soziba. Nozlejjen ta giprepfo huokorip conora surad buhnore goucotas judobo duf wite neh abkiv.",
+    "bio": "Sed daf ip tudbokeho cu nedwalata zine eke vu secozej huw kizof zesuru. Cuic ovoaru li toz fo ebfegmew vi lubgog bilif desacde damviv febdervo. Tod okogna lonzavog zurovti bivka hihzuowe judad wecbek ekegaumo duhugupe do nibre huhat wehelno nagucnun. Mepnivda pihpirece cutne ozkaw pe cez udsuj ar pi te ikupakda vigja kujivu hirigmu zocer pivro balonfom."
+  },
+  "apiKey": "fe7d2a75b8ef0c90354745ca76ac01d649650c67af0b5a9494b3afe97f64cc46",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
