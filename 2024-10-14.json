@@ -1,0 +1,26 @@
+{
+  "name": "Juan Fowler",
+  "age": 54,
+  "address": {
+    "street": "Duno Circle",
+    "city": "Fantesu",
+    "state": "KS",
+    "zip": "67968"
+  },
+  "contact": {
+    "phone": "(789) 396-5950",
+    "servicePhone": "800839248"
+  },
+  "birthday": "2005-08-12T09:56:29.626Z",
+  "ip": "148.115.69.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Viz ulew ajfub bawhe arouro li degrojwe medjazhov epojonlu ov vajez pecwi. Saska joda bazfiima zusaddor omfipu vuwudnel dez ge nohnirkaj zo itkeze fud. Pusomu ceggeuz hucsoc pa ji am udapuv losovu ojrih rifuh irofuno hosuhni cuwafaf ko lafeimo rerej. Obgira zap sa guziv cutukleh de jeugo rir al wutzuc rol damer. Paenkap sula bewrondid ci jume popug no jaobgef ip soljuf fi ekmiag otos zik adafolez pag. Ujniuki duliun afsumudo jaipa re unvubra pu ohaturew be zawek upmel zodjog.",
+    "bio": "Inna seh ji te lufmiepe utohoze echozede jej jedibden osube fefama ba caco en gejmunzu dud. Huwakes du gemotso cipaiz bakafga etomu wohargi ereli teruzho pejto awusov ra cicsir uv kohbe culgera cofom par. Hu sormok mesmohoc cidvuvus rapumih paordif zepwaz tujehvop kekvew inidelpej conowvo wed ebirak zizo. Nahah ovo lus jodzej he iha cozdutpo ar avkag ozgu fu guwupi ca. Jetcu tivcaj kiubooj nome lozun do cepuv sami ca dudivanor so lazfoeh zivulon mecozzim ahenagbe fivumtu hopu mojsodba."
+  },
+  "apiKey": "6af0e3bfc254b5eef92fbd9f6d5741f2fce9e839fa3457e10903016c93d95cfa",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
