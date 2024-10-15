@@ -1,0 +1,26 @@
+{
+  "name": "Steve Barton",
+  "age": 38,
+  "address": {
+    "street": "Wulsud Turnpike",
+    "city": "Damluzhom",
+    "state": "NY",
+    "zip": "05933"
+  },
+  "contact": {
+    "phone": "(307) 483-2761",
+    "servicePhone": "800287738"
+  },
+  "birthday": "1975-02-24T04:06:36.475Z",
+  "ip": "111.229.61.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Kirabbu ji befaj vuudu opomi zovjumta duwwezzig il pan ni ole boka va juafu fipaguga nin hufak lakebne. Ti rimnobu are setpuar luroluk parauj goba fo te rokovwe nezami ug taptitupi goconufo. Dishomem faokbem ze mo rage pi opa agaizno zojaj moute mosek onohale rag totede.",
+    "bio": "Vuv kufza keos votrahru nu pe ifsijuf regka va ja igvon usemuzif lemvolo magbu fisubkut zoteeb tozuvpe. Ragli alcala gakupni magnakmo cima tejem uhu vomik fomji fopce liploozu turohaw te celili puw zutik. Mejazur jaweebe piuji ipwu pefuw rujsi vavmioma ikoohi rejag tuliine ensimle reep. Juk sakpebgan afiol riregguv tekoz se cokserab nu vinhamvu dojossu bucog behvuli."
+  },
+  "apiKey": "6e41ebc799f73e99ba082e856b741d7c579854b54a36e7cb8b24369057f03e9a",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
