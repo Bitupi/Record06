@@ -1,0 +1,26 @@
+{
+  "name": "Joel Fernandez",
+  "age": 37,
+  "address": {
+    "street": "Tesit View",
+    "city": "Ganidoci",
+    "state": "VT",
+    "zip": "04683"
+  },
+  "contact": {
+    "phone": "(307) 464-6478",
+    "servicePhone": "800285885"
+  },
+  "birthday": "1965-06-26T08:30:32.185Z",
+  "ip": "118.50.230.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Liw gitvor teca tiof fe wihviju buofavi dasas lisem lutno nacdekazo noiro ho zam joj lu zahem la. Za nedco bovfit li fo hihedhes voobe velguun huvuuj fu uje eha is mirit. Dasgafla kihebej ditdo ul lenfe olsufgo ivhu ekvuhi momorbo fir zagnit gizkuetu avinahi tonve nobdelit sajra um kub. Vesisfo zemas omogo pacheoge gatedne lev bom cijvasec to ecugwe puh rab ite sialfe. Ceicajaj lu saju hibiho etbinod umvucev hepser tamu ligevdir hevpanbi noffot suhujade mo puvwow ze zar ceorawi. Wo zesugalev ohpus emdido ridaftu rej wehe zewatebu erucum dotmacte upcevoj dirdioc uh opiuvwel iheki.",
+    "bio": "Lowcazva ewelazoc pum haodafam wahju wihwu puzo na ciki ivudeb pingotlep zinlazim poheser sedaja ufemo camu kinaczim. Esnu fa fik li udino ewuopsi pobijiher asobu wawhom lutac kip vu ubzup. Ociguavo winjoad tolob ajujul ta apelu zocpoco man jewfem ramrodru labgirnov vefula kemoka."
+  },
+  "apiKey": "72e286296f5170fb2226a07297ff46093614c1dc3882b768f7bf6c2c4bb71207",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
