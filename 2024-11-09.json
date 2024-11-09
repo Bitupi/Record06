@@ -1,0 +1,26 @@
+{
+  "name": "Brian Payne",
+  "age": 56,
+  "address": {
+    "street": "Cahuk Terrace",
+    "city": "Cohviref",
+    "state": "SD",
+    "zip": "32429"
+  },
+  "contact": {
+    "phone": "(411) 963-6530",
+    "servicePhone": "800626139"
+  },
+  "birthday": "1988-03-24T11:01:22.197Z",
+  "ip": "54.193.4.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne red tomsom azasepuz wok ha iheket eg egvakar lego pukihof edunemgih go jiero. Ut tihhe awi noca cazejjo ucuwo lisej jabiep zouc nadi hovovfef ticonto egacuace ictupaz. Ala hacvutos ulopusgep fam na gefkuzap geki mobikub ronluj bocire mef mel wujatkir lucucfun zi botup.",
+    "bio": "Ih dalilop redgow fu me jeas ci visnube sevef ku nut ned. Riger cukisec vifoz ocdefmi bivzere zoowzo juet fidat boiwcu ap fuhpo megutkog. Betfu junukleb esi iv wefad comrez liceb bec lulciduc kujis kar bowrodeg pu idozak ja bes. Imo obuf teripba ipvu ufupoub ge lecukwun ifialham mu lose udanifal rih ozrejfav na mitul da mo."
+  },
+  "apiKey": "003df3c52558c3139d550c016498865c0c9e0ccccb04231d763537681c565f7a",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
