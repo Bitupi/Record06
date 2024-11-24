@@ -1,0 +1,26 @@
+{
+  "name": "Mina Holmes",
+  "age": 38,
+  "address": {
+    "street": "Dedug Lane",
+    "city": "Komtusga",
+    "state": "GA",
+    "zip": "62510"
+  },
+  "contact": {
+    "phone": "(843) 669-7774",
+    "servicePhone": "800278729"
+  },
+  "birthday": "1997-08-10T09:57:48.852Z",
+  "ip": "77.169.169.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Beado ozre ti da od la heugo gehato cuvlal ociwer mutmujamo ejeofi hih az ne cemezu ra. Legi mun lellurah atuk fidigwu bagwucfa azuuco ile meksekoga uvfu timhakca iwup wegerkar. Rijathef fogik witurzeh rogize sak halev iso ralwupu wishu bu sun nuga ru.",
+    "bio": "Cikrisa ednid cuacohi zul sev sevmofdag mac civohzi seecco rodip ruticto kebufub zirem pudup al. Bof momef jef cidde izkid kuzoce teevpu rawavupu buvikjul buwsu uh to volieb. Fillep satza aja sumzorwu vaovi fob le igome nipusog gihuhif li izjomkis gatujga socopile obepnal."
+  },
+  "apiKey": "f4a8c743d96bd1ede43c98970d0c48c334d26fd8721b2fbea074556e17ebc5e6",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
