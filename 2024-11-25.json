@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Page",
+  "age": 23,
+  "address": {
+    "street": "Jutsum Terrace",
+    "city": "Zeajevo",
+    "state": "OR",
+    "zip": "93812"
+  },
+  "contact": {
+    "phone": "(687) 272-3185",
+    "servicePhone": "800683497"
+  },
+  "birthday": "1996-04-29T01:35:32.544Z",
+  "ip": "132.110.199.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Sidne kal ha edopewo juhu wi aciga etevikmin cenmeaz wo huufa id. Zu egazenuz ka fag igder po iwe faoke gawdulsad doz ilucej jahbukrok aviuzat teg pih vizebav gi viuz. Ca tonzazoh tubsuloj ave beptapo acenaoju aczileh venopez pi sakuzeric laewekod duj an inotamcop sapofku fucci butwezma.",
+    "bio": "Notraep umupat lozmo wopbitu mo vovi su uderate ki dotoiru vuz lif dovcaef fo nihsuk juznu ma. Di atuloac des di suus go zit mo subumle iloci ec cussim en firve figwokod. Sun was labbifuw gusfacpi mipi dovdiase ugadoj mu avce akinaru ha oraiki tulce jikjor jofav wezemimi. Zeloir zo gonrieh gecu lejof ucdeuso iti nuwbe nesgana gevul ho ro rir. Rawna we zihzigub iba umhumsuv mof gaih fa de acmo hunozcal duj co iceniac had."
+  },
+  "apiKey": "8661089078de2b8f62de354d42a8610492d96fec81ace534243cdb4caf2e4ad7",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
