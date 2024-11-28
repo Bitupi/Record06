@@ -1,0 +1,26 @@
+{
+  "name": "Alan Garza",
+  "age": 28,
+  "address": {
+    "street": "Okoze Path",
+    "city": "Sahupze",
+    "state": "AZ",
+    "zip": "09512"
+  },
+  "contact": {
+    "phone": "(479) 450-2333",
+    "servicePhone": "800136976"
+  },
+  "birthday": "1968-12-19T07:14:35.997Z",
+  "ip": "25.57.193.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Vezsoun abajosra bazaab bufet pathazvi hilaubu afi so lehgoge haagu wojafa jufa udir vojeel. Boigreh nefdec ruic niz jogu sesmuga belici dil zub ke peltiscip woril mociku muwkehe. Cep fiktam jeuv herfamo danup davguut etla le zos ba dahvenesi ven giskek suw sepirbad. Abuejafaf lovihru jikkogwe ohu re waifefug ra haho epi ha hewvona vimzucfoz sekocedeg cehop dogut.",
+    "bio": "Ezavizob komgunul jujmeah ke haholek nam la mojsuzli izu pervoret pu newaj gowip be. Up faza ez meje im jab ro sid ri citcuemo jaw curposu isnu. Ni ep joure anego pevow ufwo fihesu fuskuus zalcane jal dad gaap. Vitde il pozsi ikjerwed mib mimelob nop tivbam nivigug soktibvoz wuzok vokto je wugzi citil velmamu dazako."
+  },
+  "apiKey": "c8f626319b20a92342e3cb269e7fa4833c506cffbe671b86cb5914459f662b04",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
