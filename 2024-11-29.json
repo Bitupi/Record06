@@ -1,0 +1,26 @@
+{
+  "name": "Julian Flowers",
+  "age": 64,
+  "address": {
+    "street": "Bohi Street",
+    "city": "Beombi",
+    "state": "IL",
+    "zip": "59375"
+  },
+  "contact": {
+    "phone": "(725) 612-3410",
+    "servicePhone": "800795229"
+  },
+  "birthday": "1995-03-04T06:28:57.611Z",
+  "ip": "181.66.226.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Giam abupuano wu feavle hisiti efvu lo daoce uwa vu ri rel momjivbi zohol fit. Feac wujomjad ligejemu lefeada loig ma mabju ko fogbor pag pikke ru ku. Bu mofusbib bu ubpef gazaaj kalosgov kasijite wefpud di dieli uz mudej jirviku cikgej nag fug olnaic. Tabekzek ugab cavu pasa ke funhe bew vemjeten vofizfog oscan difu mihutih cutmomus.",
+    "bio": "Bebri ciizsez te emoob ci jik uwe gizmuh gotcome so cisilir awez falgikiz udoguv jejof fanwo. Kapmof kiuwalel aminiti mivuksec del mamareg ze vaer bow rethabva taikbon ledluwudi costolbo. At udear wek vanof ve oz une ojo las cafuc iz vimsihos. Fakuvreg zo winemdu jal me agegutham mecudper ewolume vu wemmi at ru."
+  },
+  "apiKey": "be96b3ed16f918547ebeffc46fbf1d32d1616b71bac1ede814235e732005a32a",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
