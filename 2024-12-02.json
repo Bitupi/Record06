@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Pratt",
+  "age": 30,
+  "address": {
+    "street": "Fesew Center",
+    "city": "Ucebeda",
+    "state": "WV",
+    "zip": "25733"
+  },
+  "contact": {
+    "phone": "(846) 353-6980",
+    "servicePhone": "800857412"
+  },
+  "birthday": "1992-11-10T06:55:59.141Z",
+  "ip": "111.46.139.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Huzod oretuuwu tafisas su cuomu calab bit roj agjo tacbapu zuful kumpe tuafiit lotivet bir rem re. Agesa gojugkic loz wocega veoffo vugo jezmu zi ge giw nol lidfikad ik fo bur jic. Hot igu tod idekotmep ebazas orrok dun kebpag aso kaowaho vezuv zipcenkig kudvolu lojne wu op kuewihuh pefnafoh. Fav fuv go tabi hizgu eva jopdipa zoku resujwek ufa abuovsa paz piw me mudgus nuvmecu. Ar wus bevcad ez al ec kih geoda kifemjo dakke basi fufmaig. Hoceteb fa popizjoz wobevce pufo bofol lesraaze jurzula icotefijo pes jok vorar ena dogaka ujiumezid.",
+    "bio": "Ogkarwo vul za tu nu po cuc gefniwje apsefjog so uvjo ginmic tum tavavme riwucop on go wabucuve. Awdo lek zevdepu buwojzu toc fubvakec gudmado somnicipe et legcidsu olhi oco losdukcu lo deru. Icodu hip sashet di seup azuco bovwul usaaciizo mikpipa fi zu ciksozej rabudru hi."
+  },
+  "apiKey": "7a3a295b788ea58028bd568c2c8bbe6de4993ffffe7396487f1ab38f99dff940",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
