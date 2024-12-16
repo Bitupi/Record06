@@ -1,0 +1,26 @@
+{
+  "name": "Celia Lee",
+  "age": 41,
+  "address": {
+    "street": "Wehes Heights",
+    "city": "Mepohdo",
+    "state": "KS",
+    "zip": "99184"
+  },
+  "contact": {
+    "phone": "(418) 888-5949",
+    "servicePhone": "800515745"
+  },
+  "birthday": "1997-04-01T05:23:24.649Z",
+  "ip": "143.71.217.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Fooprom ric ota nuli je dizetjuk uruedoze kohulu gu ug jofka til gisamoot dowadra. Duruzi nowri kilotka lifveje gep penorhu disugze vufra avuajafoc sit do rera donfu. Wawuwa kik sefvokdah daot kisage vu womebij wa awe tewove noupifu fedzi ohri ukcubebu apeuzafi zo. Guijgu uda pe dowub usokoso goapraz kes mezuzolac raoz jo wambo fajeg losi sozbok mevome ginja zorup. So ovuzak ri kireb te ozu udogif kimem bogumu leuju iwevisiw dinme zepigu tibacu.",
+    "bio": "Van ec umo enu zaz ek homjot zuso kopves zaopsif jiw no fut dafzeltek. Zos filokod caeca zezi fa da un ken juptin keftaruk um ibi lu rejevcek. Ge pil sog mo iwtap dogel wadta ewacucaw wuwfegju timnurjaz un toha vaubuisu hibafa mogdehed osdopgiv zanra. Basorbad lacjip pameb ambe dod odasiz cigifvi sectigha rivtutob egeta ozevoagi pewoda pelopifu binfaro."
+  },
+  "apiKey": "462e0bd6b8dc2855f7744f320624c956e1d4ab3aff040cbb024aab7b89fa13cf",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
